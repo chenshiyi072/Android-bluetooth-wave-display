@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blueteeth</string>
+    <string name="send">string</string>
+    <string name="display">输出波形</string>
+</resources>
